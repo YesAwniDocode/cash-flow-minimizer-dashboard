@@ -1,5 +1,5 @@
-# cash-flow-minimizer-dashboard
-Welcome to the Cash Flow Minimizer System README !!
+# Welcome to the Cash Flow Minimizer Dashboard README !!
+
 This system minimizes the number of transactions among multiple banks in the different corners of the world that use different modes of payment. There is one world bank (with all payment modes) to act as an intermediary between banks that have no common mode of payment.
 
 Getting Started
@@ -64,4 +64,4 @@ Below is the execution of our current example:
 ![image](https://github.com/YesAwniDocode/cash-flow-minimizer-dashboard/assets/137362276/cf5ad9a5-6693-4a02-b13a-ecca9690bdf6)
 
 
-Thank you!! Happy learning :)
+Thank you!! Happy learning and coding geeks :)
